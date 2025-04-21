@@ -1,28 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Muhammad Farman</h1>
-<h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
+<h3 align="center">A passionate GenAI enthusiast from Pakistan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-farman&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-farman" />
 <img src="https://img.shields.io/github/followers/muhammad-farman?label=Followers&style=flat&color=0e75b6" alt="Followers" /> </p>
-
-
-
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Full-stack developer skilled in HTML, CSS, JavaScript, Node.js, React.js, Next.js, and various databases including MongoDB and MySQL.
-
-
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> Cross-platform app developer using Flutter and Dart, with experience in Firebase for backend services.
-
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Passionate about creating innovative solutions and enhancing user experiences.
-
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Currently pursuing a BSCS degree at UET, Lahore, to further my knowledge and skills in computer science.
-
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect with me and explore my projects below!
-
-
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> I’m currently learning **Next.js 14**
-
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> Ask me about **MERN**
-
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me **muhammadfarman7654@gmail.com**
 
